@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1491232343 source:d:\projects\c\lab05p02\lab05p02.c
+	<stdio.h>
+	<stdlib.h>
+	"BST.h"
+
+1491232139 source:d:\projects\c\lab05p02\bst.c
+	"BST.h"
+
+1491232258 d:\projects\c\lab05p02\bst.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1491227341 source:d:\projects\c\lab05p02\printtree.c
+	"BST.h"
+
