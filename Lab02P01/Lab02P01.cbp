@@ -33,7 +33,6 @@
 			<Add option="-std=c99" />
 			<Add option="-g" />
 		</Compiler>
-		<Unit filename="../Lab02P02/data.in" />
 		<Unit filename="L02P01.c">
 			<Option compilerVar="CC" />
 		</Unit>
