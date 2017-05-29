@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Run" />
+		<Option title="Lab11P01" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Run" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Lab11P01" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -17,7 +17,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Run" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Lab11P01" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -32,14 +32,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Lab11P01.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="data.in" />
-		<Unit filename="main.c">
+		<Unit filename="priority_queue.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="queue.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="queue.h" />
+		<Unit filename="priority_queue.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
